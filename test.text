@@ -2,9 +2,8 @@ i am a test file.
 
 This is secoud time edited.
 
-
-This is an edit in feature branch.
+This is an edit in feature branch (which is deleted).
 
 This line has been added in dev.
 
-I have changed somethings.
+I have changed somethings (by stash).
